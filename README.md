@@ -1,16 +1,28 @@
 # 🤖 Jarvis Terminal
 
 A custom terminal built in C++ inspired by J.A.R.V.I.S from Iron Man.
-Type commands and Jarvis responds!
+Type commands and interact with Jarvis like a simple terminal.
 
 ## ⚡ Features
 
 - Custom command interface
-- Real time clock and date
+- Real-time clock and date
 - Dynamic bot name changing
 - Echo messages like a real terminal
-- Cross platform clear (cls/clear)
+- Screen clear command (Windows supported) 
 - Game menu (coming soon!)
+
+---
+
+## 📦 Requirements
+
+- C++ compiler (g++)
+- Terminal / Command Prompt
+## ⚙️ Setup (Windows)
+
+Make sure g++ is installed. You can install it using MinGW or MSYS2.
+
+---
 
 ## 📥 Installation
 
@@ -23,6 +35,7 @@ git clone https://github.com/HappyKn1ght/Jarvis.git
 ```bash
 cd Jarvis
 ```
+---
 
 ## 🚀 How to Compile & Run
 
@@ -30,6 +43,8 @@ cd Jarvis
 ```bash
 g++ jarvis.cpp -o jarvis && ./jarvis
 ```
+
+---
 
 ## 📋 Available Commands
 
