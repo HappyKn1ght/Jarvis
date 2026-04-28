@@ -12,6 +12,18 @@ Type commands and Jarvis responds!
 - Cross platform clear (cls/clear)
 - Game menu (coming soon!)
 
+## 📥 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/HappyKn1ght/Jarvis.git
+```
+
+2. Navigate to project folder:
+```bash
+cd Jarvis
+```
+
 ## 🚀 How to Compile & Run
 
 **Using G++:**
